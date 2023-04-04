@@ -1,4 +1,4 @@
-# Olá, eu sou a Kênia Cunha 👋
+# Olá, eu sou a Kenia Cunha 👋
 
 <div align="center">
   <a href="https://github.com/KeniaCunha">
